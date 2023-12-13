@@ -3,3 +3,4 @@
 2023-11-10 cleanup dead code
 2023-11-28 wip
 2023-12-08 hotfix
+2023-12-13 small perf pass
