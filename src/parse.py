@@ -7,3 +7,4 @@
 2023-12-03 wire up queue
 2023-12-05 backoff on failure
 2023-12-08 log the raw payload
+2023-12-19 reduce noise
