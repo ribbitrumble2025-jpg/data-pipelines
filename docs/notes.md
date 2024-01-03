@@ -3,3 +3,4 @@
 2024-01-01 wip 2
 2024-01-03 drop unused import
 2024-01-03 fix timezone bug
+2024-01-03 guard against None
