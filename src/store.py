@@ -2,3 +2,4 @@
 2023-12-06 hotfix
 2023-12-06 bump deps
 2023-12-18 drop unused import
+2024-02-25 readme
