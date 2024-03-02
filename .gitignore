@@ -6,3 +6,4 @@
 2024-02-02 docs
 2024-02-03 bump deps
 2024-02-25 fix timezone bug
+2024-03-02 backoff on failure
