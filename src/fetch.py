@@ -5,3 +5,4 @@
 2024-02-26 log the raw payload
 2024-03-02 bump deps
 2024-03-15 typo
+2024-03-20 cache the lookups
