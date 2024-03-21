@@ -10,3 +10,4 @@
 2024-03-12 move config to env
 2024-03-16 hotfix
 2024-03-20 metrics
+2024-03-21 guard against None
