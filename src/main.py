@@ -10,3 +10,4 @@
 2024-02-02 wip
 2024-02-07 migration
 2024-02-12 typo
+2024-04-04 add retry on 429
