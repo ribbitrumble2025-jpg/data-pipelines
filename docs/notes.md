@@ -14,3 +14,4 @@
 2024-03-22 pagination fix
 2024-04-04 metrics
 2024-04-05 move config to env
+2024-04-20 add retry on 429
