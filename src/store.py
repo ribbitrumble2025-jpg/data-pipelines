@@ -6,3 +6,4 @@
 2024-02-26 split the fetcher out
 2024-03-20 dockerfile
 2024-04-02 typo
+2024-04-22 add retry on 429
