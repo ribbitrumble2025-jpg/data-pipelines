@@ -5,3 +5,4 @@
 2024-03-16 typo
 2024-04-16 add tests
 2024-04-20 add cli flag
+2024-04-22 metrics
