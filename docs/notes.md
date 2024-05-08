@@ -16,3 +16,4 @@
 2024-04-05 move config to env
 2024-04-20 add retry on 429
 2024-04-29 log the raw payload
+2024-05-08 guard against None
