@@ -7,3 +7,4 @@
 2024-03-20 dockerfile
 2024-04-02 typo
 2024-04-22 add retry on 429
+2024-05-23 small perf pass
