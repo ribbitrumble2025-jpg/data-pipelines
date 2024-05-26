@@ -9,3 +9,4 @@
 2024-04-16 bump deps
 2024-04-26 add tests
 2024-05-03 refactor parser
+2024-05-26 split the fetcher out
