@@ -13,3 +13,4 @@
 2024-04-04 add retry on 429
 2024-04-20 readme
 2024-05-02 drop unused import
+2024-05-27 cleanup dead code
