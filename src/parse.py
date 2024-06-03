@@ -15,3 +15,4 @@
 2024-04-22 add tests
 2024-05-21 readme
 2024-05-25 wip 2
+2024-06-03 typeshed
