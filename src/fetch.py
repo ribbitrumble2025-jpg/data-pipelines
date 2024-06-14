@@ -10,3 +10,4 @@
 2024-04-26 add tests
 2024-05-03 refactor parser
 2024-05-26 split the fetcher out
+2024-06-14 cache the lookups
