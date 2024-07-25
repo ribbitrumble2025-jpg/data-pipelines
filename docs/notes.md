@@ -20,3 +20,4 @@
 2024-06-29 guard against None
 2024-07-02 lint
 2024-07-18 reduce noise
+2024-07-25 split the fetcher out
