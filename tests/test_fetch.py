@@ -7,3 +7,4 @@
 2024-06-16 readme
 2024-06-19 backoff on failure
 2024-07-30 migration
+2024-08-07 cache the lookups
