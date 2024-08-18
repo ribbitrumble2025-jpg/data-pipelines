@@ -12,3 +12,4 @@
 2024-05-26 split the fetcher out
 2024-06-14 cache the lookups
 2024-07-18 wire up queue
+2024-08-18 readme
