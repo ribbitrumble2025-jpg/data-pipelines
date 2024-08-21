@@ -10,3 +10,4 @@
 2024-06-28 migration
 2024-07-13 typo
 2024-08-05 wip
+2024-08-21 dockerfile
