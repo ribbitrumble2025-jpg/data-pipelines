@@ -8,3 +8,4 @@
 2024-05-11 bump deps
 2024-05-11 backoff on failure
 2024-07-01 add cli flag
+2024-08-23 split the fetcher out
