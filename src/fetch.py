@@ -14,3 +14,4 @@
 2024-07-18 wire up queue
 2024-08-18 readme
 2024-08-18 split the fetcher out
+2024-08-29 log the raw payload
