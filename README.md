@@ -11,3 +11,4 @@
 2024-07-13 typo
 2024-08-05 wip
 2024-08-21 dockerfile
+2024-08-29 add tests
