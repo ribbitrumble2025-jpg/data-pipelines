@@ -11,3 +11,4 @@
 2024-08-12 docs
 2024-08-25 cleanup dead code
 2024-09-05 refactor parser
+2024-09-26 add cli flag
