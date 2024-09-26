@@ -9,3 +9,4 @@
 2024-05-11 backoff on failure
 2024-07-01 add cli flag
 2024-08-23 split the fetcher out
+2024-09-26 handle empty response
