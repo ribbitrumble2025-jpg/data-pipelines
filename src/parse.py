@@ -20,3 +20,4 @@
 2024-08-05 readme
 2024-08-18 wip 2
 2024-08-30 pagination fix
+2024-09-29 add retry on 429
