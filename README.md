@@ -13,3 +13,4 @@
 2024-08-21 dockerfile
 2024-08-29 add tests
 2024-09-29 cleanup dead code
+2024-09-29 handle empty response
