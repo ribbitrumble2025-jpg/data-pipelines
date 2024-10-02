@@ -15,3 +15,4 @@
 2024-08-11 reduce noise
 2024-08-23 bump deps
 2024-09-29 revert
+2024-10-02 small perf pass
