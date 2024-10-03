@@ -26,3 +26,4 @@
 2024-09-16 log the raw payload
 2024-09-16 typeshed
 2024-09-26 typo
+2024-10-03 guard against None
