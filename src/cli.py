@@ -11,3 +11,4 @@
 2024-08-23 split the fetcher out
 2024-09-26 handle empty response
 2024-10-01 log the raw payload
+2024-10-03 add cli flag
