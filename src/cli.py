@@ -13,3 +13,4 @@
 2024-10-01 log the raw payload
 2024-10-03 add cli flag
 2024-10-10 split the fetcher out
+2024-10-30 guard against None
