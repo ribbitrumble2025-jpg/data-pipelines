@@ -14,3 +14,4 @@
 2024-10-03 add cli flag
 2024-10-10 split the fetcher out
 2024-10-30 guard against None
+2024-11-10 revert
