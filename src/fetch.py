@@ -19,3 +19,4 @@
 2024-08-31 handle empty response
 2024-09-26 handle empty response
 2024-10-12 cache the lookups
+2024-11-16 add cli flag
