@@ -21,3 +21,4 @@
 2024-10-12 cache the lookups
 2024-11-16 add cli flag
 2024-11-16 fix timezone bug
+2024-11-16 guard against None
