@@ -17,3 +17,4 @@
 2024-09-29 revert
 2024-10-02 small perf pass
 2024-11-16 fix timezone bug
+2024-11-22 split the fetcher out
