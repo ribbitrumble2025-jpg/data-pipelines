@@ -22,3 +22,4 @@
 2024-11-16 add cli flag
 2024-11-16 fix timezone bug
 2024-11-16 guard against None
+2024-12-05 log the raw payload
