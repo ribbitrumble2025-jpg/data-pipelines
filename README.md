@@ -16,3 +16,4 @@
 2024-09-29 handle empty response
 2024-11-09 revert
 2024-11-14 lint
+2024-12-17 backoff on failure
