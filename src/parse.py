@@ -22,3 +22,4 @@
 2024-08-30 pagination fix
 2024-09-29 add retry on 429
 2024-10-30 hotfix
+2024-12-27 add cli flag
