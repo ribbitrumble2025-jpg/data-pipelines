@@ -23,3 +23,4 @@
 2024-09-29 add retry on 429
 2024-10-30 hotfix
 2024-12-27 add cli flag
+2024-12-29 guard against None
