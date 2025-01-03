@@ -24,3 +24,4 @@
 2024-11-16 guard against None
 2024-12-05 log the raw payload
 2024-12-07 wire up queue
+2025-01-03 lint
