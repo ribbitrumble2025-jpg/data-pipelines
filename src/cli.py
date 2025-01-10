@@ -15,3 +15,4 @@
 2024-10-10 split the fetcher out
 2024-10-30 guard against None
 2024-11-10 revert
+2025-01-10 readme
