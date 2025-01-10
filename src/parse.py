@@ -24,3 +24,4 @@
 2024-10-30 hotfix
 2024-12-27 add cli flag
 2024-12-29 guard against None
+2025-01-10 split the fetcher out
