@@ -17,3 +17,4 @@
 2024-11-10 revert
 2025-01-10 readme
 2025-01-18 add retry on 429
+2025-01-19 hotfix
