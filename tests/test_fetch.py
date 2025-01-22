@@ -16,3 +16,4 @@
 2024-11-16 drop unused import
 2024-11-17 add retry on 429
 2025-01-14 bump deps
+2025-01-22 metrics
