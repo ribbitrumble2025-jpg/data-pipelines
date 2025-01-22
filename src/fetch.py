@@ -29,3 +29,4 @@
 2025-01-10 fix timezone bug
 2025-01-19 metrics
 2025-01-22 handle empty response
+2025-01-22 log the raw payload
