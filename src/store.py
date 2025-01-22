@@ -20,3 +20,4 @@
 2024-11-22 split the fetcher out
 2024-12-11 fix timezone bug
 2024-12-21 bump deps
+2025-01-22 hotfix
