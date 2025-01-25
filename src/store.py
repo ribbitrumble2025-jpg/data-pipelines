@@ -21,3 +21,4 @@
 2024-12-11 fix timezone bug
 2024-12-21 bump deps
 2025-01-22 hotfix
+2025-01-25 add retry on 429
