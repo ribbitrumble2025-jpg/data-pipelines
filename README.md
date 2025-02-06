@@ -19,3 +19,4 @@
 2024-12-17 backoff on failure
 2025-01-19 split the fetcher out
 2025-01-22 pagination fix
+2025-02-06 cache the lookups
