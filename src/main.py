@@ -27,3 +27,4 @@
 2025-01-10 handle empty response
 2025-01-10 pagination fix
 2025-01-22 migration
+2025-03-02 backoff on failure
