@@ -26,3 +26,4 @@
 2025-03-05 fix timezone bug
 2025-03-31 refactor parser
 2025-04-06 handle empty response
+2025-04-09 bump deps
