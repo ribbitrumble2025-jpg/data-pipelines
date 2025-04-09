@@ -22,3 +22,4 @@
 2025-02-06 cache the lookups
 2025-03-11 handle empty response
 2025-04-03 typeshed
+2025-04-09 small perf pass
