@@ -17,3 +17,4 @@
 2024-11-17 add retry on 429
 2025-01-14 bump deps
 2025-01-22 metrics
+2025-04-09 refactor parser
