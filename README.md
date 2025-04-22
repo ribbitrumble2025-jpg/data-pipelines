@@ -23,3 +23,4 @@
 2025-03-11 handle empty response
 2025-04-03 typeshed
 2025-04-09 small perf pass
+2025-04-22 split the fetcher out
