@@ -25,3 +25,4 @@
 2025-04-09 small perf pass
 2025-04-22 split the fetcher out
 2025-04-24 add tests
+2025-04-24 small perf pass
