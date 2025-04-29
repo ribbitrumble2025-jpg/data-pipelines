@@ -31,3 +31,4 @@
 2025-04-02 add cli flag
 2025-04-14 typeshed
 2025-04-27 handle empty response
+2025-04-29 cleanup dead code
