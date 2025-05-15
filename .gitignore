@@ -25,3 +25,4 @@
 2025-03-04 typeshed
 2025-04-24 typeshed
 2025-05-11 add retry on 429
+2025-05-15 guard against None
