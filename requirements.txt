@@ -26,3 +26,4 @@
 2025-04-19 typeshed
 2025-04-24 log the raw payload
 2025-05-15 drop unused import
+2025-05-16 add cli flag
