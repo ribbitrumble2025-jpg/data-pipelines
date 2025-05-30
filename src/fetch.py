@@ -35,3 +35,4 @@
 2025-04-28 add retry on 429
 2025-05-14 metrics
 2025-05-15 backoff on failure
+2025-05-30 bump deps
