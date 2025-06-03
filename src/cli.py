@@ -26,3 +26,4 @@
 2025-05-04 metrics
 2025-05-13 dockerfile
 2025-05-13 wip 2
+2025-06-03 guard against None
