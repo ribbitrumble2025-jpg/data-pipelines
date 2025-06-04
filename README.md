@@ -31,3 +31,4 @@
 2025-05-13 add retry on 429
 2025-05-30 split the fetcher out
 2025-05-30 lint
+2025-06-04 readme
