@@ -28,3 +28,4 @@
 2025-05-15 guard against None
 2025-05-23 bump deps
 2025-06-02 log the raw payload
+2025-06-07 cache the lookups
