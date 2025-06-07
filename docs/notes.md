@@ -38,3 +38,4 @@
 2025-06-06 typeshed
 2025-06-06 drop unused import
 2025-06-06 drop unused import
+2025-06-07 guard against None
