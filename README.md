@@ -32,3 +32,4 @@
 2025-05-30 split the fetcher out
 2025-05-30 lint
 2025-06-04 readme
+2025-06-12 log the raw payload
