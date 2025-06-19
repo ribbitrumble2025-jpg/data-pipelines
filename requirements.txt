@@ -28,3 +28,4 @@
 2025-05-15 drop unused import
 2025-05-16 add cli flag
 2025-06-19 wire up queue
+2025-06-19 readme
