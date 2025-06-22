@@ -21,3 +21,4 @@
 2025-05-01 reduce noise
 2025-05-10 typeshed
 2025-06-09 guard against None
+2025-06-22 guard against None
