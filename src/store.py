@@ -31,3 +31,4 @@
 2025-05-12 split the fetcher out
 2025-05-15 backoff on failure
 2025-05-17 lint
+2025-06-24 add tests
