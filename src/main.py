@@ -36,3 +36,4 @@
 2025-06-09 metrics
 2025-06-12 hotfix
 2025-06-12 revert
+2025-06-28 typeshed
