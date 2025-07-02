@@ -22,3 +22,4 @@
 2025-05-10 typeshed
 2025-06-09 guard against None
 2025-06-22 guard against None
+2025-07-02 hotfix
