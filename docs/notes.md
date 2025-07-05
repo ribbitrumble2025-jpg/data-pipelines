@@ -40,3 +40,4 @@
 2025-06-06 drop unused import
 2025-06-07 guard against None
 2025-07-03 wip 2
+2025-07-05 cleanup dead code
