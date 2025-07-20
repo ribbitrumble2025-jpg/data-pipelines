@@ -37,3 +37,4 @@
 2025-05-15 backoff on failure
 2025-05-30 bump deps
 2025-06-03 docs
+2025-07-20 log the raw payload
