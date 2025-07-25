@@ -41,3 +41,4 @@
 2025-06-07 guard against None
 2025-07-03 wip 2
 2025-07-05 cleanup dead code
+2025-07-25 metrics
