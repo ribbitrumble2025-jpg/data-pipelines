@@ -40,3 +40,4 @@
 2025-07-05 add tests
 2025-07-16 log the raw payload
 2025-07-20 small perf pass
+2025-07-27 cache the lookups
