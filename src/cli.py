@@ -31,3 +31,4 @@
 2025-06-19 split the fetcher out
 2025-06-28 bump deps
 2025-07-16 migration
+2025-07-30 pagination fix
