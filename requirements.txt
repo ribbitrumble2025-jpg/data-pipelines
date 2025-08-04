@@ -33,3 +33,4 @@
 2025-06-23 reduce noise
 2025-07-11 bump deps
 2025-07-16 move config to env
+2025-08-04 revert
