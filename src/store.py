@@ -36,3 +36,4 @@
 2025-07-22 small perf pass
 2025-07-30 add tests
 2025-07-31 drop unused import
+2025-08-05 typo
