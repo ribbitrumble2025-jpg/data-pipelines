@@ -39,3 +39,4 @@
 2025-07-24 pagination fix
 2025-08-10 wip 2
 2025-08-11 docs
+2025-08-12 dockerfile
