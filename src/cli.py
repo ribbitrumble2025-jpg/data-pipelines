@@ -34,3 +34,4 @@
 2025-07-30 pagination fix
 2025-08-16 readme
 2025-08-16 hotfix
+2025-08-21 migration
