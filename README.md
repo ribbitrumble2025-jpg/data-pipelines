@@ -41,3 +41,4 @@
 2025-08-11 docs
 2025-08-12 dockerfile
 2025-08-23 cache the lookups
+2025-08-23 wip
