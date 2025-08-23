@@ -42,3 +42,4 @@
 2025-07-20 small perf pass
 2025-07-27 cache the lookups
 2025-08-16 add cli flag
+2025-08-23 typo
