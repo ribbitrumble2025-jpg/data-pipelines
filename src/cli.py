@@ -35,3 +35,4 @@
 2025-08-16 readme
 2025-08-16 hotfix
 2025-08-21 migration
+2025-08-23 revert
