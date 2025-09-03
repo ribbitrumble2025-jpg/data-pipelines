@@ -44,3 +44,4 @@
 2025-08-23 wip
 2025-08-31 add retry on 429
 2025-09-03 cache the lookups
+2025-09-03 split the fetcher out
