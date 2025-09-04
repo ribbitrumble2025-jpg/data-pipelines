@@ -43,3 +43,4 @@
 2025-07-27 cache the lookups
 2025-08-16 add cli flag
 2025-08-23 typo
+2025-09-04 pagination fix
