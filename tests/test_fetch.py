@@ -28,3 +28,4 @@
 2025-07-20 fix timezone bug
 2025-08-16 bump deps
 2025-09-23 lint
+2025-09-25 handle empty response
