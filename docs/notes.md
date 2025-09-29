@@ -45,3 +45,4 @@
 2025-08-02 reduce noise
 2025-08-23 guard against None
 2025-08-23 wip
+2025-09-29 small perf pass
