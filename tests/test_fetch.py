@@ -29,3 +29,4 @@
 2025-08-16 bump deps
 2025-09-23 lint
 2025-09-25 handle empty response
+2025-10-04 log the raw payload
