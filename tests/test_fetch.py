@@ -32,3 +32,4 @@
 2025-10-04 log the raw payload
 2025-10-08 readme
 2025-10-13 wip 2
+2025-10-18 lint
