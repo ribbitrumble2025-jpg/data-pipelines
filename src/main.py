@@ -45,3 +45,4 @@
 2025-08-23 typo
 2025-09-04 pagination fix
 2025-10-14 reduce noise
+2025-10-18 cache the lookups
