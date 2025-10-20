@@ -42,3 +42,4 @@
 2025-09-27 add tests
 2025-10-01 metrics
 2025-10-18 small perf pass
+2025-10-20 wip 2
