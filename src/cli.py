@@ -39,3 +39,4 @@
 2025-10-18 move config to env
 2025-11-03 dockerfile
 2025-11-04 reduce noise
+2025-11-07 readme
