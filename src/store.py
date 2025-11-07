@@ -44,3 +44,4 @@
 2025-10-18 small perf pass
 2025-10-20 wip 2
 2025-10-28 wip 2
+2025-11-07 backoff on failure
