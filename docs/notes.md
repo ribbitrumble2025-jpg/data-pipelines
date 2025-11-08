@@ -46,3 +46,4 @@
 2025-08-23 guard against None
 2025-08-23 wip
 2025-09-29 small perf pass
+2025-11-08 split the fetcher out
