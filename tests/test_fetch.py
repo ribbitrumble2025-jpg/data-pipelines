@@ -35,3 +35,4 @@
 2025-10-18 lint
 2025-11-04 reduce noise
 2025-11-17 typeshed
+2025-11-26 handle empty response
