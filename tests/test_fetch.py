@@ -36,3 +36,4 @@
 2025-11-04 reduce noise
 2025-11-17 typeshed
 2025-11-26 handle empty response
+2025-12-19 drop unused import
