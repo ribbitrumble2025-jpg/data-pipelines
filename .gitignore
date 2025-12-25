@@ -37,3 +37,4 @@
 2025-12-05 drop unused import
 2025-12-20 typeshed
 2025-12-20 pagination fix
+2025-12-25 cleanup dead code
