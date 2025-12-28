@@ -42,3 +42,4 @@
 2025-12-17 docs
 2025-12-18 handle empty response
 2025-12-27 refactor parser
+2025-12-28 reduce noise
