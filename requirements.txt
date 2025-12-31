@@ -38,3 +38,4 @@
 2025-09-29 lint
 2025-11-21 move config to env
 2025-12-02 typeshed
+2025-12-31 handle empty response
