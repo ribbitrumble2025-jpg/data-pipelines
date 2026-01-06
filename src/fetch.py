@@ -45,3 +45,4 @@
 2025-09-27 backoff on failure
 2025-10-06 docs
 2025-12-31 wip 2
+2026-01-06 move config to env
