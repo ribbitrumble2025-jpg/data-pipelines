@@ -45,3 +45,4 @@
 2025-12-28 reduce noise
 2026-01-06 typo
 2026-01-06 hotfix
+2026-01-07 metrics
