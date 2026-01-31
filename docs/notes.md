@@ -48,3 +48,4 @@
 2025-09-29 small perf pass
 2025-11-08 split the fetcher out
 2025-11-27 metrics
+2026-01-31 hotfix
