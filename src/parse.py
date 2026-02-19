@@ -47,3 +47,4 @@
 2026-01-06 hotfix
 2026-01-07 metrics
 2026-01-17 hotfix
+2026-02-19 readme
