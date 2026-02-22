@@ -47,3 +47,4 @@
 2025-11-07 backoff on failure
 2025-12-19 bump deps
 2025-12-31 handle empty response
+2026-02-22 guard against None
