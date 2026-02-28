@@ -38,3 +38,4 @@
 2025-11-26 handle empty response
 2025-12-19 drop unused import
 2026-02-22 cache the lookups
+2026-02-28 pagination fix
