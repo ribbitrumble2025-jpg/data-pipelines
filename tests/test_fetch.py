@@ -40,3 +40,4 @@
 2026-02-22 cache the lookups
 2026-02-28 pagination fix
 2026-03-17 wip
+2026-03-29 refactor parser
