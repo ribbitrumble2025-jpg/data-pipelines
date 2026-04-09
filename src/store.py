@@ -49,3 +49,4 @@
 2025-12-31 handle empty response
 2026-02-22 guard against None
 2026-04-09 typeshed
+2026-04-09 small perf pass
