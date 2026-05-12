@@ -42,3 +42,4 @@
 2026-03-17 wip
 2026-03-29 refactor parser
 2026-04-15 hotfix
+2026-05-12 migration
