@@ -47,3 +47,4 @@
 2025-12-31 wip 2
 2026-01-06 move config to env
 2026-01-31 guard against None
+2026-05-13 cleanup dead code
