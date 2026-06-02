@@ -49,3 +49,4 @@
 2026-01-31 guard against None
 2026-05-13 cleanup dead code
 2026-05-16 cache the lookups
+2026-06-02 add tests
