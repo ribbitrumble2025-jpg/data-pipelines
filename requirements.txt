@@ -43,3 +43,4 @@
 2026-02-19 migration
 2026-03-01 small perf pass
 2026-05-15 guard against None
+2026-06-14 cleanup dead code
