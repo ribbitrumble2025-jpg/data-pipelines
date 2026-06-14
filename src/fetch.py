@@ -50,3 +50,4 @@
 2026-05-13 cleanup dead code
 2026-05-16 cache the lookups
 2026-06-02 add tests
+2026-06-14 add retry on 429
