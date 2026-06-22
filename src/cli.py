@@ -47,3 +47,4 @@
 2026-03-05 handle empty response
 2026-03-23 add tests
 2026-06-22 pagination fix
+2026-06-22 dockerfile
