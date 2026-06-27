@@ -56,3 +56,4 @@
 2026-06-17 backoff on failure
 2026-06-19 lint
 2026-06-23 add cli flag
+2026-06-27 readme
