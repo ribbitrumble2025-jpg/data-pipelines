@@ -44,3 +44,4 @@
 2026-04-15 hotfix
 2026-05-12 migration
 2026-06-21 reduce noise
+2026-06-27 dockerfile
