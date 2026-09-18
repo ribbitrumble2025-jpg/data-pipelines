@@ -48,3 +48,4 @@
 2026-03-23 add tests
 2026-06-22 pagination fix
 2026-06-22 dockerfile
+2026-09-18 add retry on 429
