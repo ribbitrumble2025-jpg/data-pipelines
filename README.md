@@ -60,3 +60,4 @@
 2026-07-20 wip
 2026-07-20 guard against None
 2026-09-10 backoff on failure
+2026-10-12 cleanup dead code
