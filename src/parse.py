@@ -51,3 +51,4 @@
 2026-03-30 lint
 2026-06-14 log the raw payload
 2026-09-18 cleanup dead code
+2026-10-20 readme
