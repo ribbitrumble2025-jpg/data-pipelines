@@ -46,3 +46,4 @@
 2026-06-21 reduce noise
 2026-06-27 dockerfile
 2026-07-22 metrics
+2026-10-27 add retry on 429
